@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 🏫school
 
-![42 Profile Card](https://badge.mediaplus.ma/colorfulwaves/rezzahra)![leetcode card](https://stats-cards-4b1n8mmbp-hxx2.vercel.app/api/leetcode/?username=reroreo1)
+![42 Profile Card](https://badge.mediaplus.ma/colorfulwaves/rezzahra)![leetcode card](https://stats-cards-4b1n8mmbp-hxx2.vercel.app/api/leetcode/?username=rachid2pc1)
 
  # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=reroreo1&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
