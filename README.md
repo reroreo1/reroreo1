@@ -11,7 +11,7 @@
 - 💬 Ask me about anything you want
 - 📫 How to reach me: email me at rachidentre1@gmail.com 
 - ⚡ Fun fact: I can sing lol 😝
-- 
+
 # 🏫 School
 
 ![42 Profile Card](https://badge.mediaplus.ma/greenbinary/rezzahra)![leetcode card](https://stats-cards-4b1n8mmbp-hxx2.vercel.app/api/leetcode/?username=rachid2pc1)
