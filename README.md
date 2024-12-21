@@ -1,7 +1,7 @@
 ### Hello Everybody I m a software Engineer driven by curiosity and passion for how everything works 👋
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,next,react,vue,flutter,angular,javascript,ts,figma,python,flask,django,ansible,azure,docker,c,cpp,nginx,linux,mysql,mongodb,postgres,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git,next,react,vue,flutter,angular,javascript,ts,figma,python,flask,django,ansible,azure,docker,c,cpp,nginx,linux,mysql,mongodb,postgres,nodejs,flutter" />
   </a>
 </p>
 
