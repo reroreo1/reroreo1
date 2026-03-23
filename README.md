@@ -5,7 +5,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working At OsWebSolutions ...
+- 🔭 I’m currently working At Monce
 - 🌱 I’m currently learning Machine Learning...
 - 👯 I’m looking to collaborate on interesting projects concerning machine learning
 - 💬 Ask me about anything you want
