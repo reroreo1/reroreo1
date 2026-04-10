@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working At Monce
 - 🌱 I’m currently learning Machine Learning...
-- 👯 I’m looking to collaborate on interesting projects concerning machine learning
+- 👯 I’m looking to collaborate on interesting projects concerning machine learning , ai apps and any related challenges
 - 💬 Ask me about anything you want
-- 📫 How to reach me: email me at rachidentre1@gmail.com 
+- 📫 How to reach me: email me at rachid.ezz.dev@gmail.com
 - ⚡ Fun fact: I can sing lol 😝
 
 # 🏫 School
