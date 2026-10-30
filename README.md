@@ -5,7 +5,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working At Monce
+- 🔭 I’m currently working At @DPRGROUP
 - 🌱 I’m currently learning Machine Learning...
 - 👯 I’m looking to collaborate on interesting projects concerning machine learning , ai apps and any related challenges
 - 💬 Ask me about anything you want
